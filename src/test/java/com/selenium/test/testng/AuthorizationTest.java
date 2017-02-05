@@ -31,7 +31,6 @@ public class AuthorizationTest {
         driver.findElement(By.id("login")).click();
 
 
-
     }
 
     @AfterClass // Runs this method after all the test methods in the current class have been run
